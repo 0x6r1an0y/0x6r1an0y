@@ -1,4 +1,14 @@
-## Hi there 👋
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=brianoy&style=for-the-badge"></h1>
+</p>
+
+<p align="center">
+  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=brianoy&theme=darkhub&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
+</p>
+
+<p align="center">
+<img  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brianoy&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
+</p>
 
 <!--
 **brianoy/brianoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
