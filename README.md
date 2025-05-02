@@ -1,17 +1,17 @@
 # 🌋stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brianoy&style=for-the-badge"></h1>
+  <img src="https://komarev.com/ghpvc/?username=0x6r1an0y&style=for-the-badge"></h1>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brianoy/brianoy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brianoy/brianoy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brianoy/brianoy/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0x6r1an0y/0x6r1an0y/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0x6r1an0y/0x6r1an0y/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0x6r1an0y/0x6r1an0y/output/github-contribution-grid-snake.svg">
 </picture>
 
 <div align="center">
-  <img  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brianoy&show_icons=true&theme=dracula&hide=issues&hide_border=true">
+  <img  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0x6r1an0y&show_icons=true&theme=dracula&hide=issues&hide_border=true">
 </div>
 
 # ⚒️working on
