@@ -1,7 +1,7 @@
 # 🌋stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0x6r1an0y&style=for-the-badge"></h1>
+  <img src="https://komarev.com/ghpvc/?username=0x6r1an0y&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS"></h1>
 </p>
 
 <picture>
