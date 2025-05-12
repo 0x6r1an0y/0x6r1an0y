@@ -11,7 +11,7 @@
 </picture>
 
 <div align="center">
-  <img  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0x6r1an0y&show_icons=true&theme=dracula&hide=issues&hide_border=true">
+  <img  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0x6r1an0y&show_icons=true&theme=merko&hide=issues&hide_border=true">
 </div>
 
 # ⚒️working on
