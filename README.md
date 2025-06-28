@@ -29,7 +29,7 @@
 
 - Exploring new technologies including blockchain    [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](https://etherscan.io/address/0x4586e3cc29c7a76bbb1892d2f36455f1e057474c).
 - Exploring the applications of large language models and automating workflows with Google Apps Script.
-- Currently learning about RFID technology and various cracking techniques.
+- Currently researching about RFID technology and various cracking techniques.
 
 
 <!--
