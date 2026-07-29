@@ -10,10 +10,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0x6r1an0y/0x6r1an0y/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-  <img  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0x6r1an0y&show_icons=true&theme=merko&hide=issues&hide_border=true">
-</div>
-
 # ⚒️working on
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
