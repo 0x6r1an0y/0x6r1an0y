@@ -6,7 +6,7 @@ name: user-statistician
 
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '30 1 * * *'
   push:
     branches: [ main, master ]
     paths: [ '.github/workflows/statistics-all-dark.yml' ]
